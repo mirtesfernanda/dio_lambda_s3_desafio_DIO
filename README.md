@@ -61,8 +61,6 @@ desafio-lambda-s3/
    python src/lambda_function.py
    ```
 
-5. (Opcional) Faça o deploy na AWS real via AWS Console ou SAM CLI.
-
 ---
 
 ## 🧠 Arquitetura do Projeto
